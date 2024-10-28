@@ -4,7 +4,7 @@ import { Input } from "@/components/ui/input"
 export default function Home() {
   return(
     <div className="">
-      Hello World
+      <Button variant="destructive">hello worls</Button>
     </div>
   )
 }
